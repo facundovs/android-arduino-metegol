@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Metegol</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="accept">Aceptar</string>
+    <string name="title_activity_ip_connection">ip_connection</string>
+    <string name="title_activity_ipconnection">IPConnection</string>
+    <string name="input_ip">Ingrese la IP</string>
+    <string name="acept">Aceptar</string>
+    <string name="metegol">METEGOL</string>
+    <string name="usar_la_ip_por_defecto">Usar la IP por defecto</string>
+    <string name="ingrese_la_ip_de_la_placa_galileo">Ingrese la IP de la Placa Galileo...</string>
+    <string name="Connected_message">Conectado a la ip</string>
+</resources>
