@@ -23,11 +23,8 @@ import android.widget.Toast;
 import com.koushikdutta.async.AsyncServer;
 import com.koushikdutta.async.http.server.AsyncHttpServer;
 
-import java.text.DecimalFormat;
-
 import edu.soa.tp.R;
 import edu.soa.tp.constants.GameConstants;
-import edu.soa.tp.utils.HttpReceiverAsyncTask;
 import edu.soa.tp.utils.HttpUtils;
 
 
